@@ -1,7 +1,9 @@
 # 🧩 MyApp - Student and Section Management System
 
 ## 📘 Description / Overview
-**MyApp** is currently used for github activity.
+**MyApp** is a web-based system built using **Laravel** that allows users to efficiently manage students and sections.  
+It provides features for adding, viewing, editing, and deleting both students and sections — helping administrators organize student data in a structured and user-friendly interface.
+
 ---
 
 ## 🎯 Objectives
